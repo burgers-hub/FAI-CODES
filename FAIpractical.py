@@ -1,7 +1,7 @@
 # copy the code from below according to your need
 # dont copy the commented(#)lines 
 # ask ser to enter to numbers and perfform arithmatc operations
-"""
+
 a = int(input("enter the first number : "))
 b = int(input("enter the second number : "))
 
@@ -43,7 +43,7 @@ a = np.array([1,2,3,4,5])
 max_value = np.max(a)
 min_value = np.min(a)
 print(f"the maximum value of {a} is : {max_value}")
-print(f"the minimum value of {a} is : {min_value}")"""
+print(f"the minimum value of {a} is : {min_value}")
 
 #write a progrsm for dataaframe and perform add,update ,delete operations
 
